@@ -1,0 +1,13 @@
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\bin\Debug\net7.0\AloDoutor.Core.deps.json
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\bin\Debug\net7.0\AloDoutor.Core.dll
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\bin\Debug\net7.0\AloDoutor.Core.pdb
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\AloDoutor.Core.csproj.AssemblyReference.cache
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\AloDoutor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\AloDoutor.Core.AssemblyInfoInputs.cache
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\AloDoutor.Core.AssemblyInfo.cs
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\AloDoutor.Core.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\AloDoutor.Core.sourcelink.json
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\AloDoutor.Core.dll
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\refint\AloDoutor.Core.dll
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\AloDoutor.Core.pdb
+C:\Users\ERICK\OneDrive\Documentos\WORKSPACE\TechChallengeFase3\MQAloDoutor\AloDoutor.Core\obj\Debug\net7.0\ref\AloDoutor.Core.dll
